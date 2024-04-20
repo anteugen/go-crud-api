@@ -1,8 +1,8 @@
 package main
 
 import (
-	"example.com/movie-app/db"
-   	"example.com/movie-app/router"
+	"github.com/anteugen/go-crud-api/db"
+   	"github.com/anteugen/go-crud-api/router"
 )
 
 func main() {
